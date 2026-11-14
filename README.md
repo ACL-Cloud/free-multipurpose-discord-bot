@@ -1,3 +1,5 @@
+<p align="center"><a href="https://aclclouds.com/en/bots?utm_source=github&utm_medium=readme&utm_campaign=free-multipurpose-discord-bot"><img src="https://raw.githubusercontent.com/ACL-Cloud/.github/main/profile/assets/aclclouds-logo.png" alt="ACLClouds" width="96" height="96"></a></p>
+
 [Français](https://github.com/ACL-Cloud/bot-discord-francais-gratuit) · **English** · [Español](https://github.com/ACL-Cloud/bot-de-discord-espanol-gratis) · [Deutsch](https://github.com/ACL-Cloud/discord-bot-deutsch-kostenlos) · [Português](https://github.com/ACL-Cloud/bot-discord-portugues-gratis)
 
 # ACLClouds Bot: free open-source multipurpose Discord bot
